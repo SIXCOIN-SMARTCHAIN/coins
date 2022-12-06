@@ -15249,6 +15249,29 @@
         ],
         "asset": "MSHARK"
     },
+    "NATURE": {
+    "coin": "NATURE",
+    "name": "Nature",
+    "type": "Smart Chain",
+    "coinpaprika_id": "nil",
+    "coingecko_id": "nil",
+    "nomics_id": "nil",
+    "electrum": [
+      {
+        "url": "electrum1.gf4n.xyz:10002"
+      },
+      {
+        "url": "electrum2.gf4n.xyz:10002"
+      },
+      {"url": "electrum3.gf4n.xyz:10002"
+      }
+    ],
+    "explorer_url": [
+      "https://explorer.gf4n.xyz/"
+    ],
+    "active": false,
+    "currently_enabled": false
+    },
     "NAV": {
         "coin": "NAV",
         "type": "UTXO",
@@ -19014,6 +19037,30 @@
             }
         ],
         "token_address_url": "tokentxns?a="
+    },
+    "SIX": {
+    "coin": "SIX",
+    "name": "SIXSIXSIX",
+    "type": "Smart Chain",
+    "coinpaprika_id": "nil",
+    "coingecko_id": "nil",
+    "nomics_id": "nil",
+    "electrum": [
+      {
+        "url": "electrum1.sixcoin.site:10001"
+      },
+      {
+        "url": "electrum2.sixcoin.site:10001"
+      },
+      {
+        "url": "electrum3.sixcoin.site:10001"
+      }
+    ],
+    "explorer_url": [
+      "https://explorer.sixcoin.site/"
+    ],
+    "active": false,
+    "currently_enabled": false
     },
     "SMTF-v2": {
         "coin": "SMTF-v2",
